@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 141,
+    "articles": [
+      {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Apple Releases visionOS 1.0.1 Ahead of Vision Pro Launch",
+    "description": "While the Vision Pro does not launch until February 2, Apple today released visionOS 1.0.1 for the headset, according to developer Nicolás Álvarez. It's unclear what's new in the software update, as Apple has yet to start sharing visionOS release notes.\n\n\n\n\n\n…",
+    "url": "https://www.macrumors.com/2024/01/23/apple-releases-visionos-1-0-1/",
+    "urlToImage": "https://images.macrumors.com/t/SBzHPBLGxpliBkkqGJnoqytBGi8=/2500x/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg",
+    "publishedAt": "2024-01-24T02:20:30Z",
+    "content": "While the Vision Pro does not launch until February 2, Apple today released visionOS 1.0.1 for the headset, according to developer Nicolás Álvarez. It's unclear what's new in the software update, as … [+384 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Luis Miranda",
+    "title": "Las Apple Vision Pro ya se venden en eBay al doble de su precio original",
+    "description": "La fiebre por las Apple Vision Pro llegó a eBay. Miles de revendedores publicaron ofertas de las gafas de realidad aumentada, las cuales alcanzan los 12.000 dólares en compra inmediata. Algunos de ellos garantizan la entrega del producto el 2 de febrero. Una …",
+    "url": "http://hipertextual.com/2024/01/apple-vision-pro-reventa-ebay-scalpers",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/DSC06315-scaled.jpg",
+    "publishedAt": "2024-01-24T01:42:53Z",
+    "content": "La fiebre por las Apple Vision Pro llegó a eBay. Miles de revendedores publicaron ofertas de las gafas de realidad aumentada, las cuales alcanzan los 12.000 dólares en compra inmediata. Algunos de el… [+2633 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Hackaday"
+    },
+    "author": "Maya Posch",
+    "title": "Reverse Engineering The Apple Touch Bar Screen",
+    "description": "The Apple Touch Bar was an oddity on a fairly small number of Apple laptops which replaced the function key row with a touch display. Yet what is special about this display other than its odd form …",
+    "url": "https://hackaday.com/2024/01/23/reverse-engineering-the-apple-touch-bar-screen/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2024/01/apple_touch_bar_screen_sushi.jpg",
+    "publishedAt": "2024-01-24T00:00:09Z",
+    "content": "The Apple Touch Bar was an oddity on a fairly small number of Apple laptops which replaced the function key row with a touch display. Yet what is special about this display other than its odd form fa… [+1080 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Zenhabits.net"
+    },
+    "author": "zenhabits",
+    "title": "The Joys of Getting Organized",
+    "description": "By Leo Babauta The last couple of months, things have piled up on me: emails, tasks, random notes, a bunch of browser tabs with things I’m interested or need to do, financial stuff, etc. For the past week, I’ve been allowing myself the joys of getting organiz…",
+    "url": "https://zenhabits.net/joy/",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T02:32:11Z",
+    "content": "The last couple of months, things have piled up on me: emails, tasks, random notes, a bunch of browser tabs with things I’m interested or need to do, financial stuff, etc.\r\nFor the past week, Ive bee… [+12906 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Trevor Mogg",
+    "title": "An Apple car won’t be coming in 2026 after all",
+    "description": "Apple has reportedly scaled back its plans for a driverless car, opting for one with driver-assistance features instead. It won't be coming in 2026, either.",
+    "url": "https://www.digitaltrends.com/cars/apple-car-wont-be-coming-in-2026-after-all/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2021/08/nyc-apple-store-logo.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-01-24T01:15:58Z",
+    "content": "It feels like rumors about Apple building a car have been swirling forever.\r\nWe know that it’s been working on an automobile because of various leaks about the project, as well as news of auto-relate… [+2339 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Apple wins early battle against NSO after suing spyware mercenaries for attacking iPhone users",
+    "description": "Apple has won an early battle against the NSO Group in court today. Apple sued the Pegasus spyware maker in November 2021, but the Israel-based firm has been trying to export Apple’s lawsuit to its home turf.\n\n\n\nApple’s early victory comes in the form of Judg…",
+    "url": "https://9to5mac.com/2024/01/23/apple-vs-nso-filing/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/nso-pegasus.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-01-24T04:24:56Z",
+    "content": "Apple has won an early battle against the NSO Group in court today. Apple sued the Pegasus spyware maker in November 2021, but the Israel-based firm has been trying to export Apple’s lawsuit to its h… [+2290 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Apple Vision Pro already has a software update",
+    "description": "It looks like Apple Vision Pro will have a software update ready to go on day one. That’s assuming Vision Pro ships with visionOS 1.0.\n\n\n\n more…",
+    "url": "https://9to5mac.com/2024/01/23/visionos-1-0-1/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/vision-pro-tour.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-01-24T02:40:52Z",
+    "content": "It looks like Apple Vision Pro will have a software update ready to go on day one. That’s assuming Vision Pro ships with visionOS 1.0.\r\nSelf-proclaimed git repository surgeon Nicolás Álvarez broke th… [+871 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "First Apple Vision Pro operating system update already available",
+    "description": "Apple has made visionOS 1.0.1 available as a day-one update for Apple Vision Pro owners, likely with various bug fixes and minor changes.visionOSSince Apple Vision Pro hasn't officially launched to the public, Apple doesn't disclose when updates are available…",
+    "url": "https://appleinsider.com/articles/24/01/24/first-apple-vision-pro-operating-system-update-already-available",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58263-118709-visionOS-xl.jpg",
+    "publishedAt": "2024-01-24T02:50:41Z",
+    "content": "visionOS\r\nApple has made visionOS 1.0.1 available as a day-one update for Apple Vision Pro owners, likely with various bug fixes and minor changes.\r\nSince Apple Vision Pro hasn't officially launched … [+582 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Passkey support rolls out for the X iOS app",
+    "description": "After the SEC's X account was hacked, the company quickly implemented passkey support for improved account security.X on the App StorePasskeys are a relatively new standard implemented by Apple, Google, and Microsoft in partnership with the FIDO Alliance and …",
+    "url": "https://appleinsider.com/articles/24/01/24/passkey-support-rolls-out-for-the-x-ios-app",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58261-118708-IMG_4786-xl.jpg",
+    "publishedAt": "2024-01-24T00:20:22Z",
+    "content": "X on the App Store\r\nAfter the SEC's X account was hacked, the company quickly implemented passkey support for improved account security.\r\nPasskeys are a relatively new standard implemented by Apple, … [+1745 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Michael Stroup)",
+    "title": "B&H Photo slashes up to $1,200 off MacBooks & iMacs this week",
+    "description": "This week's best deals from B&H Photo have AppleInsider readers saving up to $1,200 on Apple desktop and laptop computers.MacBook Pro, MacBook Air, and iMac on sale through B&H Photo.Shoppers looking for a new desktop computer can find the closeout M1 iMac wi…",
+    "url": "https://appleinsider.com/articles/24/01/24/bh-photo-slashes-up-to-1200-off-macbooks-imacs-this-week",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58258-118705-BHPhoto_weekly_deals-xl.jpg",
+    "publishedAt": "2024-01-24T02:03:58Z",
+    "content": "MacBook Pro, MacBook Air, and iMac on sale through B&amp;H Photo.\r\nThis week's best deals from B&amp;H Photo have AppleInsider readers saving up to $1,200 on Apple desktop and laptop computers.\r\nShop… [+3236 chars]"
+    },
+      {
+    "source": {
+    "id": "die-zeit",
+    "name": "Die Zeit"
+    },
+    "author": "ZEIT ONLINE: News -",
+    "title": "iPhone-Konzern: Bericht: Apple peilt eigenes Elektroauto erst für 2028 an",
+    "description": "Hier finden Sie Informationen zu dem Thema „iPhone-Konzern“. Lesen Sie jetzt „Bericht: Apple peilt eigenes Elektroauto erst für 2028 an“.",
+    "url": "https://www.zeit.de/news/2024-01/24/bericht-apple-peilt-eigenes-elektroauto-erst-fuer-2028-an",
+    "urlToImage": "https://img.zeit.de/news/2024-01/24/bericht-apple-peilt-eigenes-elektroauto-erst-fuer-2028-an-image-group/wide__1300x731",
+    "publishedAt": "2024-01-24T04:19:51Z",
+    "content": "Apple hat laut einem Medienbericht die Ambitionen bei der Entwicklung eines Elektroautos zurückgeschraubt und peilt nun eine Markteinführung für 2028 an. Statt ein weitgehend selbstfahrendes Auto zu … [+3417 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Maria Diaz （ZDNET.com） 翻訳校正： 編集部",
+    "title": "「Pixel Watch」、新モデルで2サイズを提供か",
+    "description": "グーグルは2024年後半に発売する予定の「Pixel Watch 3」で、2つの異なるサイズを提供するべく取り組みを進めているという。",
+    "url": "https://japan.cnet.com/article/35214265/",
+    "urlToImage": "https://japan.cnet.com/storage/2024/01/24/46b457b267076d46a783c65a33efae17/google-pixel-watch-2_1280x960.jpg",
+    "publishedAt": "2024-01-24T00:32:00Z",
+    "content": "GoogleFitbit2Pixel WatchPixel WatchGoogle2024Pixel Watch 32\r\nPixel Watch 22023Google9to5Google2024Pixel Watch 3\r\nPixel Watch 2Fitbit\r\nApple WatchGalaxy Watch2Google Pixel Watch241mmApple Watch Series… [+80 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Srad.jp"
+    },
+    "author": "nagazou",
+    "title": "Apple、ロシア連邦独占禁止局に罰金1365万ドルを支払う",
+    "description": "ロシア連邦独占禁止局（FAS）は22日、米Appleがアプリ内決済に関連して独占的な地位を乱用した疑いで課された罰金12億ルーブル（約1365万ドル）をロシアに支払ったことを発表した。これを報じたReutersの記事によると、Apple側アップルは現時点でコメント要請に応じてないという。FASによると、Appleは1月19日に罰金を支払い、その資金はロシア連邦予算として使用されるとしている（ロイター）。 すべて読む | アップルセクション | ビジネス | ニュース | アップル | お金 | 関連ストーリー： …",
+    "url": "https://apple.srad.jp/story/24/01/23/1445213/",
+    "urlToImage": "https://srad.jp/static/topics/money_64.png",
+    "publishedAt": "2024-01-24T04:02:00Z",
+    "content": "FAS22Apple121365ReutersAppleFASApple119"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "莫崇宇",
+    "title": "早报|马云出手大幅增持阿里巴巴/苹果汽车发布时间或延迟到 2028 年/京东被曝重返央视春晚",
+    "description": "·京东将重返央视春晚\n·星巴克推出龙年新品\n·苹果 Mac 诞生 40 周年#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1574057",
+    "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/han_leng_cover.jpg",
+    "publishedAt": "2024-01-24T01:01:40Z",
+    "content": "2028 \r\n2028 Lever 2+ 2026 Level 4\r\n 2014 Titan Google\r\n 2019 300 Titan \r\nHon Pak \r\n Hon Pak \r\nHon Pak \r\n1.5 \r\n2023 95 680 8.979 1.122 \r\n 1 23 74.02 7.85%\r\n1 23 530 11%\r\n 6 2023 \r\n Forge Forge \r\n Unit… [+1261 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Touch Arcade"
+    },
+    "author": "Jared Nelson",
+    "title": "‘Death Stranding Director’s Cut’ Gets a 50% Pre-Order Discount and Now Launching a Day Earlier on January 30th",
+    "description": "So we might have jumped the gun a wee bit yesterday when we noticed the pre-order link in the App Store for Death Stranding Director's Cut, the 2019 action game from Kojima Productions that is being brought to mobile courtesy of 505 Games. We reported that th…",
+    "url": "https://toucharcade.com/2024/01/23/death-stranding-directors-cut-pre-order-discount/",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T00:13:36Z",
+    "content": "So we might have jumped the gun a wee bit yesterday when we noticed the pre-order link in the App Store for Death Stranding Director’s Cut, the 2019 action game from Kojima Productions that is being … [+1551 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "「Apple Music Classical」登場、500万曲以上のクラシック音楽",
+    "description": "アップル（Apple）は、クラシック音楽向けアプリ「Apple Music Classical」のサービスを国内で開始した。",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1563243.html",
+    "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1563/243/main.jpg",
+    "publishedAt": "2024-01-24T03:45:08Z",
+    "content": "AppleApple Music Classical \r\n Apple Music ClassicalApple Music \r\n 500192KHz/24bitApple Music Classical"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Patrick Hipes",
+    "title": "Deadline’s Reviews Of All The Oscar Best Picture Nominees",
+    "description": "The nominations for the 96th Oscars revealed Tuesday included a diverse mix of Best Picture contenders, from box office blockbusters and festival favorites to sweeping streamer epics and indie darlings. Deadline reviewed all 10 of the nominees, beginning with…",
+    "url": "http://deadline.com/2024/01/2024-oscars-best-picture-nominees-reviews-1235802478/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/01/Best-Picture-Reviews.jpg?w=1024",
+    "publishedAt": "2024-01-24T00:28:53Z",
+    "content": "The nominations for the 96th Oscars revealed Tuesday included a diverse mix of Best Picture contenders, from box office blockbusters and festival favorites to sweeping streamer epics and indie darlin… [+7163 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Idownloadblog.com"
+    },
+    "author": "Anthony Bouchard",
+    "title": "Apple updates original AirPods Pro & AirPods (2nd generation) firmware to 6A321",
+    "description": "Apple on Tuesday released bug fix updates for both the AirPods (2nd generation) and the original AirPods Pro.",
+    "url": "https://www.idownloadblog.com/2024/01/23/airpods-pro-and-airpods-2nd-generation-software-update-6a321/",
+    "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2023/06/Apple-AirPods-Pro-Second-Generation-Model-Year-2022.jpg",
+    "publishedAt": "2024-01-24T00:09:04Z",
+    "content": "Are you still using a pair of Apples original AirPods Pro or AirPods (2nd generation)? If you answered yes to that question, then you may want to be aware of new software updates that Apple released … [+2686 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Techbang.com"
+    },
+    "author": "janus",
+    "title": "蘋果Vision Pro何時才開放美國以外地區購買？分析師說要等到WWDC 2024前",
+    "description": "蘋果Vision Pro將於WWDC 2024前在全球市場發佈\n上週五，蘋果公司開放了新款空間運算眼鏡 Apple Vision Pro 的預訂。不過，目前 Apple Vision Pro的販售都僅限於美國地區。國內用戶想買的話，除了拜託在美國的友人幫忙，不然就是上二手網站購買。\n不過， Apple Vision Pro一推出發貨時間立即開始推遲，這意味著許多買家將不得不等待數月才能收到他們的裝置。交易網站上的黃牛價，1TB 機型的起價為 5500 美元（約台幣17萬3千元），也有喊出6000美元（約19萬台幣…",
+    "url": "https://www.techbang.com/posts/112567-vision-prowwdc-2024",
+    "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/112567/original/d25cd82d12e3555f8105f0e56e8b19fc.jpg?1705911924",
+    "publishedAt": "2024-01-24T02:00:00Z",
+    "content": "Apple Vision Pro  Apple Vision Pro\r\n Apple Vision Pro1TB 5500 173600019\r\nMing-Chi Kuo 2024 WWDC Vision Pro \r\nMedium WWDC 2024 visionOS WWDC WWDC visionOS \"\"\r\n Vision Pro \r\nVision Pro"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Inside.com.tw"
+    },
+    "author": "Chris",
+    "title": "彭博爆：Apple Car 可能從 Level 5 降級到 Level 2+，最快也要 2028 上市",
+    "description": "蘋果原本最理想中的 Apple Car 是無方向盤的 Level 5 全自動駕駛，將備一個大型 iPad 風格觸控顯示器；但現在看起來越來越遙遠了。",
+    "url": "https://www.inside.com.tw/article/34006-apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving",
+    "urlToImage": "https://bucket-img.tnlmedia.com/cabinet/2024/01/7f0c8933-1745-480b-938e-22e3b6690f68.jpg?w=1200&h=630&fit=crop&auto=compress",
+    "publishedAt": "2024-01-24T01:08:00Z",
+    "content": "2022 2022 27 2024 30 2022 4 2,815 4,930 \r\n 91APP SaaS OMO \r\n 91APP Google Cloud Google Cloud AI Vertex AI 91APP AI jooii jooii AI 3 \r\n91APP \r\n 91APP 91APP D2CDirect-to-Consumer / \r\nPhoto CreditTNL Br… [+621 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Chelsea Davis, Contributor, \n Chelsea Davis, Contributor\n https://www.forbes.com/sites/chelseadavis/",
+    "title": "Meta Smart Group Entrepreneur Djonatan Leão’s Go-To New York City Eats",
+    "description": "“From the nightlife to the entertainment, it feels like you could wake up at any time and go wherever you want. There’s not one cuisine you can’t find.”",
+    "url": "https://www.forbes.com/sites/chelseadavis/2024/01/23/meta-smart-group-entrepreneur-djonatan-leos-go-to-new-york-city-eats/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65b06a6f6ee8f773cba11572/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-01-24T02:32:25Z",
+    "content": "Meta Smart Group's Founder\r\nDjonatan Leão\r\nIn an era of unprecedented digital connection, entrepreneur Djonatan Leão is forging his own path with Meta Smart Group. Working his way up the ranks of the… [+5708 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "Vision Proが発売前からオークションに続々登場、海外はもちろん日本のYahoo!オークションにも【やじうまWatch】",
+    "description": "Appleの「Vision Pro」が発売前からオークションに続々登場しつつある。",
+    "url": "https://internet.watch.impress.co.jp/docs/yajiuma/1563176.html",
+    "urlToImage": "https://internet.watch.impress.co.jp/img/iw/list/1563/176/yajiuma-watch_3.png",
+    "publishedAt": "2024-01-24T02:10:00Z",
+    "content": "Copyright ©2018Impress Corporation. All rights reserved."
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Olhardigital.com.br"
+    },
+    "author": "Kelvin Leão Nunes da Costa",
+    "title": "Os 8 melhores filmes que misturam animação com live-action",
+    "description": "Conheça 10 filmes que misturam encenação com atores reais juntamente com personagens de desenhos animados!\nO post Os 8 melhores filmes que misturam animação com live-action apareceu primeiro em Olhar Digital.",
+    "url": "https://olhardigital.com.br/2024/01/23/cinema-e-streaming/os-8-melhores-filmes-que-misturam-animacao-com-live-action/",
+    "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/01/roger_rabbit_1988-695x500.jpeg",
+    "publishedAt": "2024-01-24T00:20:00Z",
+    "content": "No cinema, a fusão entre animação e live-action já proporcionou experiências de sucesso que encantaram audiências de todas as idades, desde crianças até adultos. Esses filmes dos quais estamos faland… [+6361 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Geekpark.net"
+    },
+    "author": null,
+    "title": "马云、蔡崇信大幅增持阿里巴巴；苹果推龙年壁纸，五爪中国巨龙；Netflix 砸 50 亿美元买「摔角节目」",
+    "description": "马云、蔡崇信联手大幅增持股票，阿里巴巴美股盘前涨超 5%\n1 月 23 日，阿里巴巴集团创始人马云、蔡崇信大幅增持阿里股票。蔡崇信家族基金增持了价值 1.5 亿美元的阿里股票，马云同期也大手笔增持。\n美国证监会网站一份 13F 文件显示，蔡崇信家族基金 Blue Pool 增持了价值 1.5 亿美元的阿里股票。另据《纽约时报》财经栏目 DealBook 援引消息人士，阿里巴巴集团创始人马云同期也在大手笔增持阿里股票。\n或受上述因素影响，阿里巴巴美股盘前涨超 5%。\n分析人士指出，创始人大幅增持，体现了对阿里未来发…",
+    "url": "https://www.geekpark.net/news/330742",
+    "urlToImage": "https://imgslim.geekpark.net/uploads/image/file/99/b8/99b89d3883f0b554d39d51c107bc5561.png",
+    "publishedAt": "2024-01-24T00:07:16Z",
+    "content": "5%\r\n1 23 1.5 \r\n 13F Blue Pool 1.5 DealBook \r\n 5%\r\nL2+\r\n1 23 ·Mark Gurman 2028 \r\n 2010 2014 TitanT172\r\n L2+ L4 L5 \r\n Kevin Lynch ·\r\n1 23 LatePost 2024 App \r\n1 19 \r\n 2022 1 24 4 15 \r\n 2024 2023 LatePos… [+552 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (P.W), P.W",
+    "title": "Giám đốc cấp cao Lenovo đặt cược cả lương, nói 3 năm nữa Motorola sẽ đứng thứ ba ngành smartphone",
+    "description": "Đấy là tuyên bố của Matthew Zielinski, chủ tịch phụ trách thị trường quốc tế của Lenovo. Phát ngôn này được ông Zielinski đưa ra tại diễn đàn kinh tế thế giới, tổ chức tại Davos, Thụy Sỹ, qua đó cho biết Lenovo đã thành công trong việc thay đổi vận…",
+    "url": "https://tinhte.vn/thread/giam-doc-cap-cao-lenovo-dat-cuoc-ca-luong-noi-3-nam-nua-motorola-se-dung-thu-ba-nganh-smartphone.3758595/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/01/8247832_6474931-motorola-razr-40-ultra-tinhte-didu-13.jpg",
+    "publishedAt": "2024-01-24T01:02:18Z",
+    "content": "Ví d chính là quê hng nc M ca tp oàn Motorola, thành lp nm 1928, phá sn nm 2011 ri b tách làm ôi vi hai tp oàn Motorola Solutions (thit b vin thông) và Motorola Mobility (thit b di ng). Nc M vn ang l… [+1099 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "｢Apple マップ｣の”閉店”ミスで豪州のレストランが約120万円の損害を報告",
+    "description": "Apple Insiderによると、Appleの地図サービス「Apple マップ」のミスによりオーストラリアのあるレストランが何千ドルもの損害を被った可能性があることが分かりました。 オーストラリアのクーンズランド州でタイ料理レストラン「P",
+    "url": "https://taisy0.com/2024/01/24/194332.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2024/01/PumsKitchenmap.jpg",
+    "publishedAt": "2024-01-24T00:42:06Z",
+    "content": "Apple InsiderAppleApple \r\nPum’s Kitchen\r\nApple \r\n111212,000120\r\nAndroidWindowsPCApple AppleApple\r\nApple Apple Business ConnectApple Business ConnectMicrosoft EdgeGoogle Chrome\r\n1\r\nMac/ – Apple"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Apple、｢Vision Pro｣の発売を前に｢visionOS 1.0.1｣をリリース",
+    "description": "Appleは「Vision Pro」を現地時間2月2日に発売するべく、予約受付を実施中ですが、その発売を前に「Vision Pro」向けに最初のソフトウェアアップデートをリリースしたことが分かりました。 リリースされたのは「Vision P",
+    "url": "https://taisy0.com/2024/01/24/194343.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2023/06/th_Apple-WWCD23-Vision-Pro-with-battery-230605_big.large_2x.jpg",
+    "publishedAt": "2024-01-24T02:52:57Z",
+    "content": "AppleVision Pro22Vision Pro\r\nVision ProvisionOSvisionOS 1.0.1\r\nApple\r\nvia MacRumors"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Scalzi.com"
+    },
+    "author": "John Scalzi",
+    "title": "MacBook Pro M3 Max Initial Thoughts and Impressions",
+    "description": "I’ve lived with my new MacBook Pro M3 Max 16-inch laptop for a week now, and have been using it about the house for various things, so now is a good time to note thoughts about it, its performance and its overall value. Spoiler: It’s lovely, but there are a c…",
+    "url": "https://whatever.scalzi.com/2024/01/23/macbook-pro-m3-max-initial-thoughts-and-impressions/",
+    "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2024/01/PXL_20240117_171556046.MP_.jpg",
+    "publishedAt": "2024-01-24T00:41:45Z",
+    "content": "Posted onJanuary 23, 2024\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n3 Comments\r\nI’ve lived with my new MacBook Pro M3 Max 16-inch laptop for a week now, and have been using it about the house for various thin… [+14697 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Sspai.com"
+    },
+    "author": "少数派编辑部",
+    "title": "派早报：Apple 将为空间音频内容创作者提供版税补贴等",
+    "description": "闲鱼首家线下商店即将开业，索尼发布 SRS-XV500 蓝牙音箱等。查看全文",
+    "url": "https://sspai.com/post/86018",
+    "urlToImage": "https://cdn.sspai.com/2024/1/24/article/42c594a6-992b-2e13-58c8-0e91dc60dbd5.png",
+    "publishedAt": "2024-01-24T00:00:00Z",
+    "content": "Apple \r\nApple Music 1 23 Apple 10% Apple MusicApple 90% Apple Music 10% Dolby Atmos\r\n1 22 1 28 E5-3 \r\nSRS-XV500 \r\n 1 23 SRS-XV500 OK 2 X-Balanced Speaker 25 10 2.5 IPX4 SRS-XV500 OK 398 \r\n11%\r\n1 22 R… [+202 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Sapo.pt"
+    },
+    "author": "Pedro Simões",
+    "title": "Pixel 9 ainda não existe e já surgem as primeiras imagens do smartphone da Google",
+    "description": "Ainda que estejam longe das vendas da Apple ou da Samsung, os smartphones da Google são muito interessantes. Os Pixel representam o que deveria ser o padrão do universo Android e mostram como a...",
+    "url": "https://pplware.sapo.pt/informacao/pixel-9-ainda-nao-existe-e-ja-surgem-as-primeiras-imagens-do-smartphone-da-google/",
+    "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/01/google_pixel_9_render_1.jpg",
+    "publishedAt": "2024-01-24T01:30:40Z",
+    "content": "Ainda que estejam longe das vendas da Apple ou da Samsung, os smartphones da Google são muito interessantes. Os Pixel representam o que deveria ser o padrão do universo Android e mostram como a gigan… [+2384 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "Apple、世界中の学生を対象にしたアプリ開発コンテスト「Swift Student Challenge 2024」の募集を2月5日から開始",
+    "description": "Swift Student Challenge 2024\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleが、世界中の学生を対象にしたアプリ開発コンテスト「Swift Student Challenge 2024」の募集を2024年2月5日から開始すると発表しています。\n2024年のChallengeでは、350名の受賞者の中から、卓越した作品を提出した50名の優秀受賞者を称え、クパティーノのApple本社での特別な体験に…",
+    "url": "https://www.macotakara.jp/news/entry-46038.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202401/ca71470ae1847858.jpg",
+    "publishedAt": "2024-01-24T01:30:21Z",
+    "content": "AppleSwift Student Challenge 2024202425\r\n2024Challenge35050Apple\r\nChallengeApple Developer Program1App Development with SwiftApple\r\nChallenge1316AppleAppleApple Developer Program"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "Apple、バグ修正したAirPods Pro (第 1 世代)、AirPods (第 3 世代/第 2 世代)用ファームウェア・アップデート 6A321を配布開始",
+    "description": "AirPods Pro (第 1 世代)用ファームウェア・アップデート 6A321\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleが、AirPods Pro (第 1 世代)、AirPods (第 3 世代)、AirPods (第 2 世代)用ファームウェア・アップデート 6A321の配布を開始しています。\niOS 17以降を搭載したiPhone、iPadで、AirPodsとペアリングされて接続状態にあり、AirPods…",
+    "url": "https://www.macotakara.jp/etc/support/entry-46037.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202401/9538f5684a0a0816.jpg",
+    "publishedAt": "2024-01-24T01:19:01Z",
+    "content": "AppleAirPods Pro ( 1 )AirPods ( 3 )AirPods ( 2 ) 6A321\r\niOS 17iPhoneiPadAirPodsAirPodsWi-Fi\r\niOSBluetoothAirPods"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Www.nzz.ch"
+    },
+    "author": "Matthias Sander (msa)",
+    "title": "KOMMENTAR - Xi Jinping gefährdet Chinas Innovationskraft mehr als die US-Exportverbote",
+    "description": "Selbst die Chinesische Akademie der Wissenschaften warnt davor, dass sich das Land zu sehr vom Westen abschotte. China droht auf dem Weg zur Hightech-Supermacht in der «Falle der Mitteltechnologie» steckenzubleiben.",
+    "url": "https://www.nzz.ch/meinung/xi-jinping-gefaehrdet-chinas-innovationskraft-mehr-als-die-us-exportverbote-ld.1770989",
+    "urlToImage": "https://img.nzz.ch/2024/01/23/cd6e0e8c-8fc2-4569-9223-aeca16b358df.jpeg?width=1200&height=675&fit=bound&quality=75&auto=webp&crop=3436,1933,x0,y0&wmark=nzz",
+    "publishedAt": "2024-01-24T04:30:00Z",
+    "content": "Mächtiger Drache oder Papiertiger? Hochburg des Kopierens oder Supermacht der Innovation? Der Technologiestandort China hat sich in den vergangenen Jahren stark gewandelt, auch in der Wahrnehmung des… [+9246 chars]"
+    },
+      {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Meredith Gordon, Fox Van Allen",
+    "title": "Peacock is the only way to watch all the 2024 U.S. Figure Skating Championships events: What you need to know",
+    "description": "Watching the 2024 U.S. Figure Skating Championships is easy, but you won't be able to see it all on cable TV.",
+    "url": "https://www.cbsnews.com/essentials/peacock-2024-us-figure-skating-championship-events/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/23/deca73bf-e6cb-45a7-9ad1-0a153d2b7b2b/thumbnail/1200x630/d31da9935b4290904cac923378560904/figure-skating-pairs.jpg?v=1acc31b0e955989267fc7dd28b496c5e",
+    "publishedAt": "2024-01-24T00:24:34Z",
+    "content": "Madison Chock and Evan Bates of the United States compete in the Ice Dance Free Skating on day three of 2023-24 ISU Grand Prix of Figure Skating Final at National Indoor Stadium on December 9, 2023 i… [+7555 chars]"
+    },
+      {
+    "source": {
+    "id": "abc-news-au",
+    "name": "ABC News (AU)"
+    },
+    "author": "ABC News",
+    "title": "More than $130,000 lost in scams as fake Taylor Swift tickets surge",
+    "description": "More than four million people attempted to buy tickets for Taylor Swift's Australian concerts but experts warn resale tickets are causing a \"cruel summer\" for fans who fall victim to a scam surge.",
+    "url": "https://www.abc.net.au/news/2024-01-24/rise-in-online-ticket-scams-for-taylor-swift-tickets/103383978",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9f191c0c9e197de30be7b46edf977202?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+    "publishedAt": "2024-01-24T03:37:35Z",
+    "content": "The Australian Competition and Consumer Commission's (ACCC) Scamwatch says 273 people reported being scammed into buying fake Taylor Swift tickets on social media, with over $135,000 lost so far.\r\nKe… [+4589 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Yahoo Sports Videos",
+    "title": "How the Chiefs, Ravens defensive coordinators could shape Sunday's AFC Championship | The Exempt List",
+    "description": "Yahoo Sports NFL writer Charles McDonald and Marshall Newhouse preview Sunday's AFC Championship Game between the Ravens and Chiefs, including an eye on both defensive units. Hear the full conversation on “The Exempt List with Charles McDonald” - part of the …",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8abc7cd6-a2ca-484f-8d12-4bfdcf5e123c",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T01:18:07Z",
+    "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Dgtle.com"
+    },
+    "author": "飞越彩虹",
+    "title": "苹果官网上线龙年壁纸，这次是「五爪龙」",
+    "description": "即将到来的的甲辰龙年，苹果为迎接春节，日前推出了不少应节的配件，例如前两天争议性很大的龙年手机壳，近日苹果官网还发布了龙年壁纸，分别适配手机、平板和电脑。（需要自取）这条中国巨龙飞翔在祥云之上，龙身由MacBook、iPad、iPhone组成，尾部则由Apple Watch、AirPods组成。另外，这条龙为五爪设计，而不是最近备受争议的苹果第三方龙年手机壳中的四爪。",
+    "url": "https://www.dgtle.com/news-1551945-14.html",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T03:49:20Z",
+    "content": "MacBookiPadiPhoneApple WatchAirPods"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "The Daily Dot"
+    },
+    "author": "Stacy Fernandez",
+    "title": "‘Applebee’s scamming’: Applebee’s customer orders $15 unlimited food, gets only 5 chicken wings",
+    "description": "Applebee's strikes again. Yet another adult customer says they received a child-size portion when they ordered from the unlimited food menu.\n\n\nThe restaurant chain is known to offer some pretty interesting food deals, including their famous Dollaritas (margar…",
+    "url": "https://www.dailydot.com/news/applebees-scamming-unlimited-food/",
+    "urlToImage": "https://uploads.dailydot.com/2024/01/applebees-unlimited-wings.jpg?auto=compress&fm=pjpg",
+    "publishedAt": "2024-01-24T02:00:00Z",
+    "content": "Applebee’s strikes again. Yet another adult customer says they received a child-size portion when they ordered from the unlimited food menu.\r\nThe restaurant chain is known to offer some pretty intere… [+2477 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "Chen Kobe",
+    "title": "Apple Car 向現實妥協放棄全自動駕駛，換取 2028 年上市機會",
+    "description": "經過董事會一番論戰，Apple 似乎決定放棄難以實現的全自動駕駛，將 Apple Car 降級成 Level 2 左右的自駕能力，希望最快可以在 2028 年上市發表。 吵了近十年的 Apple Car，現在終於面臨到關鍵抉擇點，他們決定放棄無法實現的全自動駕駛野心，改用更實際一點的設計，目標就是讓...",
+    "url": "https://technews.tw/2024/01/24/apple-car-downgrade-level2/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/04/14102336/Tim-Cook.jpg",
+    "publishedAt": "2024-01-24T01:45:16Z",
+    "content": "Apple Apple Car Level 2 2028 \r\n Apple Car 2014 2028 \r\n 2025 Apple Car Apple Car 2028 \r\n2014 Apple Car Project Titan Dyson 7 \r\n Apple Car \r\n Apple Car Project Titan \r\n 2024 BMW 4 logo \r\n 10 2026 2028 … [+18 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "愛范兒",
+    "title": "蘋果為什麼要推出這個「反 iPhone」的功能",
+    "description": "你滑手機的姿勢是什麼？辦公室摸魚時低頭刷社群，避免被發現？睡前關燈蜷縮在被窩裡看影片，讓黑眼圈被螢幕的光照亮？還是靠著老闆椅，將手臂微微抬高？自從筆者打開蘋果的「螢幕距離」功能，就發現自己不會拿手機了。 比用戶還關心眼睛的iPhone，請不要再「煩人」了 iPhone或iPad與眼睛的建議距離為30...",
+    "url": "https://technews.tw/2024/01/24/features-of-iphone-to-reduce-cell-phone-addiction/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2017/01/04135331/shutterstock_218533402.jpg",
+    "publishedAt": "2024-01-24T00:20:56Z",
+    "content": "iPhone\r\niPhoneiPad30\r\n20\r\n1iPhone20\r\nSource\r\nApp\r\niPhoneFace IDiOS 17\r\nBusiness Insider545\r\n20239iOS 17iPadOS 17\r\n2018WWDC9iOS 12App\r\nSource\r\nAppAppApp\r\n13\r\n App\r\nGoogleMeta\r\n20214ATT11 Facebook 98.5… [+384 chars]"
+    },
+      {
+    "source": {
+    "id": "abc-news-au",
+    "name": "ABC News (AU)"
+    },
+    "author": "Yasmin Jeffery, Jared Richards, and Velvet Winter",
+    "title": "Eight Oscars nominations for Barbie isn't a snub — here's why",
+    "description": "The internet is fuming that Margot Robbie and Greta Gerwig were passed over for best actress and best director nominations for the 2024 Academy Awards. So how did we get here?",
+    "url": "https://www.abc.net.au/news/2024-01-24/barbie-oscars-greta-gerwig-margot-robbie-best-director/103384122",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9dab58cea79cf65e82c54a542be71577?impolicy=wcms_crop_resize&cropH=540&cropW=960&xPos=0&yPos=0&width=862&height=485",
+    "publishedAt": "2024-01-24T04:16:00Z",
+    "content": "The internet is fuming that Margot Robbie and Greta Gerwig were passed over for best actress and best Director nominations for the 2024 Academy Awards.\r\nTheir box office hit Barbie may have nabbed ei… [+7304 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Plus 5G手机 256GB 黑色 6587元",
+    "description": "Apple 苹果 iPhone 15 Plus 5G手机 256GB 黑色 6587元,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/102948406/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b3a2b43f66569.png_d250.jpg",
+    "publishedAt": "2024-01-24T02:07:50Z",
+    "content": "iPhone 15 Plus IP68 201g7.8mm\r\niPhone 15 Plus 6.7 OLED XDR 2796×1290460ppi2000100%DCI-P360HziPhone 15Plus A16 6 CPU5GPU 16 iPhone 14 Plus 263550%LightningUSB-C\r\niPhone 15 Plus 4800f1.62400120021200f2… [+12 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 15 Pro 5G手机 128GB 原色钛金属 6949元（需用券）",
+    "description": "京东此款目前活动售价7399元，下单领取满4000减400元、满3000元减50元优惠券，实付低至6949元，近期好价。叠加优惠券：满4000减400元",
+    "url": "https://www.smzdm.com/p/102947992/",
+    "urlToImage": "https://y.zdmimg.com/202309/13/6500b104b5a4f4674.png_d250.jpg",
+    "publishedAt": "2024-01-24T00:10:20Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "爆卖年货：Apple 苹果 iPhone 15 Plus 5G智能手机 128GB 5949元（需用券，12期免息）",
+    "description": "玩家之道升级灵动岛设计，主摄升级4800万像素，A16芯片加持~京东此款目前活动售价6199元，下单领取满4000元减200元惠券，页面领取50元优惠券，实付低至5949元，白条12期免息，一年版AC+限时优惠100元。",
+    "url": "https://www.smzdm.com/p/102949492/",
+    "urlToImage": "https://y.zdmimg.com/202401/24/65b05767897c33765.jpg_d250.jpg",
+    "publishedAt": "2024-01-24T00:21:34Z",
+    "content": "iPhone 15 Plus IP68 201g7.8mm\r\niPhone 15 Plus 6.7 OLED XDR 2796×1290460ppi2000100%DCI-P360HziPhone 15Plus A16 6 CPU5GPU 16 iPhone 14 Plus 263550%LightningUSB-C\r\niPhone 15 Plus 4800f1.62400120021200f2… [+12 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "爆卖年货：Apple 苹果 iPhone 15 Pro 5G手机 128GB 原色钛金属 6949元（需用券，12期免息）",
+    "description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。京东此款目前活动售价7399元，下单领取满4000元减400元优惠券，页面领取50元优惠券，实付低至6949元，白条12期免息，一年版AC+限时优惠100元。",
+    "url": "https://www.smzdm.com/p/102949462/",
+    "urlToImage": "https://qny.smzdm.com/202401/24/65b0572c5a09d8586.jpg_d250.jpg",
+    "publishedAt": "2024-01-24T00:21:34Z",
+    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "爆卖年货：Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 原色钛金属 8949元（需用券，12期免息）",
+    "description": "玩家之道搭载A17 Pro芯片，更新USB-C接口，使用钛合金边框，潜望式长焦镜头~京东此款目前活动售价9399元，下单领取满4000元减400元优惠券，页面领取50元优惠券，实付低至8949元，白条12期免息，一年版AC+限时优惠100元。",
+    "url": "https://www.smzdm.com/p/102949398/",
+    "urlToImage": "https://qny.smzdm.com/202401/18/65a888dab81c05958.jpg_d250.jpg",
+    "publishedAt": "2024-01-24T00:21:34Z",
+    "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Pausaparafeminices.com"
+    },
+    "author": "Bruna Tavares",
+    "title": "Totally free wild slots Slots On the internet",
+    "description": "Articles Best Fee Options for Position Software Tricks and tips To conquer The overall game Added bonus Attributes of Double Diamond Slot machine game Again, there’ll be a rigorous betting requirements connected to the totally free money ahead of your own pay…",
+    "url": "https://www.pausaparafeminices.com/ppf/totally-free-wild-slots-slots-on-the-internet/",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T03:14:43Z",
+    "content": "Again, there’ll be a rigorous betting requirements connected to the totally free money ahead of your own payouts is put-out. wild slots The best gambling enterprises to own apple ipad have invited pr… [+6209 chars]"
+    },
+      {
+    "source": {
+    "id": "globo",
+    "name": "Globo"
+    },
+    "author": null,
+    "title": "Apple lança ferramenta que dificulta transações e acessos em caso de roubo de iPhone",
+    "description": "Esse modo, que pode ser ativado nos ajustes do aparelho, impõe camadas de autenticação adicionais quando o iPhone está longe de locais conhecidos, como casa ou trabalho",
+    "url": "https://valor.globo.com/empresas/noticia/2024/01/23/apple-lanca-ferramenta-que-dificulta-transacoes-e-acesso-a-senhas-em-caso-de-roubo-de-iphone.ghtml",
+    "urlToImage": "https://s2-valor.glbimg.com/SUkOP8-G3w2JKFG0x2vxLYR0lwY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/m/6/5WeKZVTAyijNIkxh4yAg/iphone-13-og-2021.jpg",
+    "publishedAt": "2024-01-24T00:22:26Z",
+    "content": "A Apple lançou nesta terça-feira (23) um recurso aos iPhones para dificultar que mesmo ladrões com o código de desbloqueio de um celular roubado em mãos acessem senhas salvas, façam operações finance… [+2743 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "mobiFlip.de"
+    },
+    "author": "Oliver Schwuchow",
+    "title": "Nintendo versteht keinen Spaß bei Palworld",
+    "description": "Palworld ist der erste Hype der Gaming-Branche in diesem Jahr und das Spielt wird auch immer wieder mit Pokémon verglichen, da es viele Ähnlichkeiten gibt. Einige bezeichnen es derzeit als […]",
+    "url": "https://www.mobiflip.de/shortnews/nintendo-versteht-keinen-spass-bei-palworld/",
+    "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2024/01/palworld-pal-tier.jpg",
+    "publishedAt": "2024-01-24T04:20:15Z",
+    "content": "Palworld ist der erste Hype der Gaming-Branche in diesem Jahr und das Spielt wird auch immer wieder mit Pokémon verglichen, da es viele Ähnlichkeiten gibt. Einige bezeichnen es derzeit als das schöne… [+1002 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Toodaylab.com"
+    },
+    "author": "吴诗源",
+    "title": "今日消费资讯：“Apple Music 古典乐”在大陆地区上线、索尼和国际田径联合会签署三年赞助协议",
+    "description": "北京环球度假区“环球中国年”主题活动将从 1 月 27 日开启1 月 18 日，北京环球度假区宣布“环球中国年”主题活动将从 1 月 27 日开启，并将持续到 3 月 10 日。活动期间园区将为游客带来全新集市、演出、龙年装饰以及美食和年货等，北京环球城市大道也会有灯笼盛宴，多家餐厅也将上新特色菜品。同时，园区的两家度假酒店也会带来多款客房套餐，当中有丰富的宾客专享福利以及节日主题餐点，无论是本地聚餐还是外地游客都可以享受浓浓的节日气氛。PUMA MB.03 CNY 龙年配色开售1 月 22 日，PUMA 正式发…",
+    "url": "https://www.toodaylab.com/82572",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T00:30:00Z",
+    "content": "1 27 \r\n1 18 1 27 3 10 \r\nPUMA MB.03 CNY \r\n1 22 PUMA ·LaMelo Ball MB.03 CNY \r\nPUMA PUMA \r\nApple Music \r\n1 23 appApple Music Apple Music \r\nApple Music 500 \r\n1 23 World Athletics 2024 - 2026 3 1 2024 202… [+107 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Doope.jp"
+    },
+    "author": "okome",
+    "title": "iPhone 15 ProとiPad、Mac版「DEATH STRANDING DIRECTOR’S CUT」の配信が1月30日に決定",
+    "description": "昨年9月に実施された“Apple Event”にて、iPhone 15 Pro対応がアナウンスされた「DEATH STRANDING DIRECTOR’S CUT」ですが、新たに505 Gamesとコジマプロダクションが […]",
+    "url": "https://doope.jp/2024/01142871.html",
+    "urlToImage": "https://doope.jp/media/22q1/img7807_01.jpg",
+    "publishedAt": "2024-01-24T00:54:56Z",
+    "content": "9Apple EventiPhone 15 ProDEATH STRANDING DIRECTORS CUT505 GamesiPhone 15 ProiPadMacDEATH STRANDING DIRECTORS CUT2024130DEATH STRANDING DIRECTORS CUTiPhone, iPad, Mac \r\n505 Games 1 24 iPhoneiPad Mac D… [+1494 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Leancrew.com"
+    },
+    "author": "Dr. Drang",
+    "title": "My Mac 40th anniversary draft",
+    "description": "I assume that most of you have already listened—at least in part—to the latest episode of Upgrade, the 40th Anniversary of the Mac Draft. Any podcast with both John Gruber and John Siracusa is going be longer than your average Upgrade; I’m impressed they brou…",
+    "url": "https://leancrew.com/all-this/2024/01/my-mac-40th-anniversary-draft/",
+    "urlToImage": "https://leancrew.com/all-this/images2024/20240123-Claris%20CAD.jpg",
+    "publishedAt": "2024-01-24T03:01:07Z",
+    "content": "Previous post\r\nJanuary 23, 2024 at 9:01 PM by Dr. Drang\r\nI assume that most of you have already listenedat least in partto the latest episode of Upgrade, the 40th Anniversary of the Mac Draft. Any po… [+3609 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Reforma.com"
+    },
+    "author": "Mauricio Angel",
+    "title": "Scorsese: amuleto de la suerte de Rodrigo Prieto",
+    "description": "Casi todas las nominaciones a Mejor Fotografía de Rodrigo Prieto son por su trabajo con Scorsese, ahora con 'Los Asesinos de la Luna'.",
+    "url": "https://www.reforma.com/scorsese-amuleto-de-la-suerte-de-rodrigo-prieto/ar2745383",
+    "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/597/5596937.jpg&wm=1&ang=0",
+    "publishedAt": "2024-01-24T03:51:22Z",
+    "content": "Rodrigo Prieto fue nominado al Óscar por 'Los Asesinos de la Luna'. Crédito: Archivo\r\nEl mexicano fotografió 'Los Asesinos de la Luna', estrenará en Netflix su ópera prima: 'Pedro Páramo'. Crédito: J… [+117 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "Алексей Сычёв",
+    "title": "Apple рассчитывает выпустить электромобиль не ранее 2028 года",
+    "description": "Его придётся сделать не настолько автономным, как планировалось изначально.",
+    "url": "https://overclockers.ru/hardnews/show/131679/apple-rasschityvaet-vypustit-elektromobil-ne-ranee-2028-goda",
+    "urlToImage": "https://overclockers.ru/st/images/preview/ueS7hu3LKKsRjMvs.jpg",
+    "publishedAt": "2024-01-24T02:02:00Z",
+    "content": ", Apple. , Vision Pro, , Bloomberg . Apple , 2028 , .\r\n Apple , . 2014 , . , Apple , .\r\n , Apple Level 2+ SAE Level 4 Level 5. , , . , , , , . Apple . Apple - .\r\n Apple , SAE, . Apple , , . , Apple ,… [+1 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "superkatis",
+    "title": "Как настроить защиту украденных устройств на вашем iPhone с помощью iOS 17.3",
+    "description": "Узнайте, как благодаря новым функциям в iOS 17.3 защитить свой iPhone от кражи и потери устройства.",
+    "url": "https://overclockers.ru/blog/superkatis/show/133765/Kak-nastroit-zaschitu-ukradennyh-ustrojstv-na-vashem-iPhone-s-pomosch-ju-iOS-17-3",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/431584/467330_O.jpg",
+    "publishedAt": "2024-01-24T04:05:42Z",
+    "content": "Apple iOS 17.3, iPhone , . . \r\n \" \". , . , , , (, Face ID Touch ID) . , , - -, . \r\n , , Apple ID, . , , . \r\n , , , . iPhone, . \r\n , iPhone \" \", , Apple. , , , . \r\niOS 17.3, . \"\" iPhone, \"Face ID -\". … [+184 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "dima0782",
+    "title": "Средняя цена 3нм пластин TSMC подскочила на 22% за один год",
+    "description": "По оценкам некоторых аналитиков, стоимость одной пластины, обработанной по технологии N3, может достигать 20 000 долларов",
+    "url": "https://overclockers.ru/blog/techbaza/show/133829/Srednyaya-cena-plastin-TSMC-podskochila-na-22-za-odin-god",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/427135/467525_O.jpg",
+    "publishedAt": "2024-01-24T00:18:41Z",
+    "content": ", , , (ASP) 300- TSMC 6 611 , 22 % , , N3 (3 ) TSMC. (Stacy Rasgon) Bernstein Research , , .\r\n TSMC: 4 2023 1 2,957 300- , 3,702 4 2022 2020 . . \r\nTSMC 4 2023 19,62 , 1,5 % , 4 2022 (19,93 ), 20,1 %.… [+470 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "Ross Wang",
+    "title": "頂規 M3 Max MacBook Pro 開箱體驗：太空黑，帶你飛",
+    "description": "隨著這波 M3 Mac 系列在台灣開賣，我們則是找到機會驗證看看，現階段在圖形效能方面來到最頂規，並且染上了更「Pro」專業感的太空黑色的 M3 Max MacBook Pro。在各項工作（特別是遊戲）的表現上，是否真的快到讓仍抱著老 Mac 的用戶義無反顧地自 M3 開始全面跨入新的世代。繼續閱讀頂規 M3 Max MacBook Pro 開箱體驗：太空黑，帶你飛報導內文。\nThe post 頂規 M3 Max MacBook Pro 開箱體驗：太空黑，帶你飛 appeared first on 電腦王阿達.",
+    "url": "https://www.kocpc.com.tw/archives/531017",
+    "urlToImage": "https://img.kocpc.com.tw/wp-content/uploads/2024/01/1706005135-ea81fd95d90cca16ccf383670f3823b2.jpg",
+    "publishedAt": "2024-01-24T02:07:33Z",
+    "content": "M3 Mac Pro M3 Max MacBook Pro Mac M3 M3 Max MacBook Pro \r\n M3 Max MacBook Pro \r\n M1 M2 Mac Apple Silicon Boot Camp \r\nApple M3 Mac Apple M3 / M3 Pro / M3 Max GPU Mac iPhone \r\nTouch Bar MacBook Pro 14 … [+1660 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Sopitas.com"
+    },
+    "author": "Stephania Carmona",
+    "title": "Te decimos dónde ver las películas nominadas a los premios Oscar 2024",
+    "description": "La temporada de premios continúa y este 23 de enero finalmente conocimos a todos los actores, actrices, directores y más involucrados en la industria  industria cinematográfica...\nThe post Te decimos dónde ver las películas nominadas a los premios Oscar 2024 …",
+    "url": "https://www.sopitas.com/cine-y-tv/plataformas-donde-ver-peliculas-nominadas-premios-oscar-2024/",
+    "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/01/plataformas-donde-ver-peliculas-nominadas-premios-oscar-2024-1.jpg",
+    "publishedAt": "2024-01-24T01:07:55Z",
+    "content": "Lo que necesitas saber: \r\nPara que se preparen antes de la ceremonia, acá les dejamos las películas nominadas a los premios Oscar 2024 y dónde verlas.\r\nLa temporada de premios continúa y este 23 de e… [+3931 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Allabout.co.jp"
+    },
+    "author": null,
+    "title": "AppleCare+は加入すべき？ iPhone使用歴10年以上の私が「一度も加入してこなかった」理由",
+    "description": "iPhoneを購入するたび、「AppleCare＋」に入るか否か迷ってしまう人も多いのではないでしょうか。この記事ではAppleCare＋の詳細を解説しつつ、iPhoneを10年以上使用している私が加入しない理由をお話しします。",
+    "url": "https://allabout.co.jp/gm/gc/500480/",
+    "urlToImage": "https://imgcp.aacdn.jp/img-a/1200/900/aa/gm/article/5/0/0/4/8/0/1701203506/topimg_original.jpeg",
+    "publishedAt": "2024-01-24T02:00:00Z",
+    "content": "AppleCare+\r\niPhoneAppleCareiPhoneAppleCare\r\nAppleCare AppleCare\r\niPhone190AppleCareiPhone\r\nAppleCareAppleCareAppleCare\r\nAppleCare\r\n20231225AppleCare\r\nAppleCare+\r\nAppleCare23AppleCare30AppleCare\r\nAppl… [+415 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Gamebiz.jp"
+    },
+    "author": null,
+    "title": "コジマプロと505Games、 『デス・ストランディング ディレクターズカット』iPhone、iPad、Mac版を1月30日に発売…40%オフの特別価格で予約受付中",
+    "description": "KOJIMA PRODUCTIONS(コジマプロダクション)とビデオゲームパブリッシャー505Gamesは、1月24日(日本時間)、「WWDC23」で発表した iPhone、iPad、Mac版『DEATH STRANDING DIRECTOR'S CUT(デス・ストランディング ディレクターズカット)』を、日本時間2024年1月30日に発売することを発表した。これに伴い、現在 App Store…",
+    "url": "https://gamebiz.jp/news/380760",
+    "urlToImage": "https://i3.gamebiz.jp/media/bc04a072-f269-4d96-af3e-d9c5ef60958b.jpg",
+    "publishedAt": "2024-01-24T03:40:00Z",
+    "content": "KOJIMA PRODUCTIONS()505Games124()WWDC23 iPhoneiPadMacDEATH STRANDING DIRECTOR'S CUT( )2024130 App Store 40%()\r\n iPhone15ProiPhone15Pro Max M Mac iPad 1 Apple iPhone Mac \r\nDEATH STRANDING DIRECTOR'S C… [+271 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Twit.tv"
+    },
+    "author": "TWiT",
+    "title": "MacBreak Weekly 905: Tequila For Your Eyes",
+    "description": "Stephen Robles from the Primary Technology podcast joins the show to talk about his experience ordering the Apple Vision Pro headset and the accessories he got for it. Following Netflix's lead, YouTube and Spotify won't launch Vision Pro apps. iOS 17.3 is out…",
+    "url": "https://twit.tv/shows/macbreak-weekly/episodes/905",
+    "urlToImage": "https://elroy.twit.tv/sites/default/files/images/episodes/2024/01/850133/hero/mbw0905_thumbnail.jpg",
+    "publishedAt": "2024-01-24T00:59:30Z",
+    "content": "Stephen Robles from the Primary Technology podcast joins the show to talk about his experience ordering the Apple Vision Pro headset and the accessories he got for it. Following Netflix's lead, YouTu… [+1335 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Android Headlines"
+    },
+    "author": "Kristijan Lucic",
+    "title": "Phone Comparisons: OnePlus 12 vs OnePlus 11",
+    "description": "The OnePlus 12 was announced in China towards the end of last year, and the global variant dropped today, January 23. We’ve been using the device for a while now, and in this article, we’ll compare it with its predecessor. In other words, we’ll compare the On…",
+    "url": "https://www.androidheadlines.com/phone-comparisons-oneplus-12-vs-oneplus-11",
+    "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/01/OnePlus-12-vs-OnePlus-11-comparison-jpg.webp",
+    "publishedAt": "2024-01-24T01:01:13Z",
+    "content": "The OnePlus 12 was announced in China towards the end of last year, and the global variant dropped today, January 23. Weve been using the device for a while now, and in this article, well compare it … [+9862 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Codigogeek.com"
+    },
+    "author": "Jeremías Rodríguez",
+    "title": "Apple lanza iOS 17.3 con nuevas actualizaciones de seguridad",
+    "description": "Apple ha lanzado iOS 17.3 y iPadOS 17.3. Una actualización modesta, pero con algunas características para destacar, por ejemplo, una nueva función llamada",
+    "url": "https://www.codigogeek.com/2024/01/24/apple-lanza-ios-17-3-con-nuevas-actualizaciones-de-seguridad/",
+    "urlToImage": "https://www.codigogeek.com/wp-content/uploads/2024/01/iOS-17.3.jpg",
+    "publishedAt": "2024-01-24T03:10:31Z",
+    "content": "Apple ha lanzado iOS 17.3 y iPadOS 17.3. Una actualización modesta, pero con algunas características para destacar, por ejemplo, una nueva función llamada Protección de dispositivos robados. Esto no … [+1732 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Mikey G",
+    "title": "Quick Charge Podcast: January 23, 2024",
+    "description": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\n\n\n\n\r\n\n\n\n\n more…",
+    "url": "https://electrek.co/2024/01/23/quick-charge-podcast-january-23-2024/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/01/quick-charge-placeholder-lead-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-01-24T01:05:46Z",
+    "content": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\r\nNew episodes … [+636 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Zacjohnson.com"
+    },
+    "author": "Disclaimer and DMCA",
+    "title": "Workout Anytime Franchise Cost – Workout Anytime Startup Costs",
+    "description": "Owning a Workout Anytime health club franchise offers a lucrative opportunity for entrepreneurs looking to enter the fitness industry. However, it’s essential to understand the financial requirements and investment involved in opening a Workout Anytime franch…",
+    "url": "https://zacjohnson.com/workout-anytime-franchise-cost/",
+    "urlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/workout-anytime-franchise-cost.jpg",
+    "publishedAt": "2024-01-24T02:08:41Z",
+    "content": "Owning a Workout Anytime health club franchise offers a lucrative opportunity for entrepreneurs looking to enter the fitness industry. However, it’s essential to understand the financial requirements… [+18381 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Applelinkage.com"
+    },
+    "author": "Al",
+    "title": "「Apple Music Classical」が日本で提供開始",
+    "description": "Apple Inc.が、iPhone/iPad向けアプリ「Apple Music Classical」［App Store］を日本でリリースしています。 Apple Music Classicalは、クラシック音楽のため … 続きを読む 「Apple Music Classical」が日本で提供開始 →",
+    "url": "https://www.applelinkage.com/2024/01/24/apple-music-classical-available-in-japan/",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T00:07:05Z",
+    "content": "Apple Inc.iPhone/iPadApple Music ClassicalApp Store\r\nApple Music ClassicalApple Music\r\nBunkamura"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Elconfidencial.com"
+    },
+    "author": "Jesús Díaz",
+    "title": "El invento de inteligencia artificial que matará a iPhone y Android ya está arrasando en ventas",
+    "description": "Tras su estética 'Gameboy', el Rabbit R1 es el heraldo de una nueva generación de dispositivos de inteligencia artificial que acabará con iPhone y Android como estos acabaron con los teléfonos normales",
+    "url": "https://www.elconfidencial.com/tecnologia/novaceno/2024-01-24/inteligencia-artificial-iphone-rabbit-r1_3816179/",
+    "urlToImage": "https://images.ecestaticos.com/ECjXX6q4H1c4Qa8CXalXfsgtSNc=/0x0:2272x1278/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/528/6d4/59f/5286d459f3d703e2c32b795b49ab82f4.jpg",
+    "publishedAt": "2024-01-24T04:00:00Z",
+    "content": "Es más que probable que nunca hayas oído hablar del Rabbit R1, el pequeño gadget naranja, con pantalla en color y un control cilíndrico analógico que puedes ver sobre estas líneas. Su estética recuer… [+7380 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Techweb.com.cn"
+    },
+    "author": "拾柒",
+    "title": "苹果Apple Music古典乐App国内上线：无广告、无需额外付费",
+    "description": "1月24日消息，日前，苹果专为古典音乐设计的独立应用Apple Music古典乐正式在国区App Store上架。如果你是Apple Music订阅用户，无需额外付费即可聆听高质量的古典音乐。Apple Music古典乐最大优点之一就是完全没有广告，干净的界面布局让用户可以更专注于音乐本身。据悉，该App拥有超过500万首曲目，对一些知名作品，Apple Music古典乐还提供数百乃至数千个版本的录音，比如贝多芬《第九交响曲》就有1.8万个版本。音质方面，整个Apple Music古典乐目录都以最高的音频质量（最…",
+    "url": "https://www.techweb.com.cn/it/2024-01-24/2940117.shtml",
+    "urlToImage": "https://s1.techweb.com.cn/static/newwap/img/mnewtwlogo.png",
+    "publishedAt": "2024-01-24T01:24:14Z",
+    "content": "124Apple MusicApp Store\r\nApple Music\r\nApple Music\r\nApp500Apple Music1.8\r\nApple Music192 kHz/24\r\nApple MusiciOS 15.4ihoneiPad"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Culturacolectiva.com"
+    },
+    "author": "Nayeli Párraga",
+    "title": "Que empiece la quiniela: dónde ver las pelis nominadas al Oscar 2024",
+    "description": "Te decimos todos los detalles que debes saber para que llegues a los Oscar con tus mejores apuestas",
+    "url": "https://culturacolectiva.com/celebridades/oscar-2024-donde-ver-peliculas-nominadas/",
+    "urlToImage": "https://i0.wp.com/culturacolectiva.com/wp-content/uploads/2024/01/oscar-2024-donde-ver-peliculas-nominadas.jpg",
+    "publishedAt": "2024-01-24T01:12:53Z",
+    "content": "Si eres amante del cine, seguro ya te estás preparando para el gran día. Sí, hablamos de los Oscar 2024, que se llevarán a cabo el próximo 10 de marzo y todo pinta para que sea un evento canónico.\r\nE… [+2536 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Ithome.com"
+    },
+    "author": null,
+    "title": "苹果更新 Apple Store 应用，用户可云上手 Vision Pro 头显",
+    "description": "IT之家 1 月 24 日消息，苹果已开启 Vision Pro 头显预购，并计划 2 月 2 日交付。苹果近日更新 Apple Store 应用程序，邀请用户云上手 Vision Pro 头显。苹果近日更新 Apple Store 应用程序，新增 Apple Vision Pro 版块，用户往下滑动可以看到“View in your space”（在你空间内预览）选项，可以从不同角度查看 Vision Pro 头显，并配有逼真的阴影。IT之家查询相关资料，苹果在 2 月 2 日正式发售之前，已经在美国各大 Ap…",
+    "url": "https://www.ithome.com/0/746/900.htm",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T00:45:30Z",
+    "content": "IT 1 24 Vision Pro 2 2 Apple Store Vision Pro \r\nApple Store Apple Vision Pro View in your space Vision Pro \r\nIT 2 2 Apple Store Vision Pro \r\nApple Store Face ID Light Seal\r\nIT"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Ithome.com"
+    },
+    "author": null,
+    "title": "苹果地图惹祸，十年老店“被关门”：预估损失 1.2 万澳元",
+    "description": "IT之家 1 月 24 日消息，根据 ABC News 报道，十年老店 Pum's Kitchen 由于被苹果地图（Apple Maps）错误标注“永久关闭”，导致去年 11-12 月期间生意骤降，损失至少 1.2 万澳元（IT之家备注：当前约 56640 元人民币）。Pum's Kitchen 位于澳大利亚昆士兰州，主要提供泰国菜，该餐厅经营者克里斯・派亚特（Chris Pyatt）去年 11 月发现，到餐厅就餐的人流骤降，最初也没有发现导致这个问题的原因。这种状况从 11 月开始，一直持续到 12 月，直到有…",
+    "url": "https://www.ithome.com/0/746/897.htm",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T00:34:12Z",
+    "content": "IT 1 24 ABC News Pum's Kitchen Apple Maps 11-12 1.2 IT 56640 \r\nPum's Kitchen Chris Pyatt 11 \r\n 11 12 \r\nPum Windows PC\r\n 11-12 1.2 \r\nIT"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Ithome.com"
+    },
+    "author": null,
+    "title": "三星：暂不考虑未来 Galaxy AI 是否收费，专注让更多用户体验 AI",
+    "description": "IT之家 1 月 24 日消息，根据韩媒 mk 报道，三星表示暂不考虑未来 Galaxy AI 是否收费这一问题，而是专注于让更多用户体验到 AI 功能。在 1 月 18 日的 Galaxy Unpacked 发布会上，三星发布了以即时翻译为代表的 Galaxy AI 系列功能。不过根据IT之家之前报道，三星在官方新闻稿的脚注部分提到“直到 2025 年底 Galaxy AI 功能将在受到支持的三星 Galaxy 设备上免费提供”，并未承诺 2026 年后继续免费提供这些功能。这一模糊的表达引起了部分消费者的关注…",
+    "url": "https://www.ithome.com/0/746/899.htm",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T00:45:02Z",
+    "content": "IT 1 24 mk Galaxy AI AI \r\n 1 18 Galaxy Unpacked Galaxy AI IT 2025 Galaxy AI Galaxy 2026 \r\nMX Galaxy AI AI \r\nAI \r\n Samsung Pay Apple Pay Galaxy AI AI 2026 Galaxy AI \r\nIT"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【ニュース】クラシックを聴くためのアプリApple Music Classicalの日本版CM公開",
+    "description": "Apple Japanの公式YouTubeチャンネルで、新しい動画「Apple Music Classical | クラシックを聴くためのアプリが新登場。」が公開されています。 クラシック音楽専用の新しいアプリ「Appl...\nThe post 【ニュース】クラシックを聴くためのアプリApple Music Classicalの日本版CM公開 first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2024/01/apple-music-classical-is-here-tv-ad-japan.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2024/01/240124applemusicclassicaltvad.jpg",
+    "publishedAt": "2024-01-24T03:21:28Z",
+    "content": "Apple Japanの公式YouTubeチャンネルで、新しい動画「Apple Music Classical | クラシックを聴くためのアプリが新登場。」が公開されています。\nクラシック音楽専用の新しいアプリ「Apple Music Classical」のテレビCMです。\n\n\n2023年3月に米国などでサービス開始された際のCM「Apple Music Classical is Here」を、… [+666 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【ニュース】Apple Musicで落合健太郎「J-Pop Now Radio」第147回の配信開始。RADWIMPSを特集",
+    "description": "Apple Musicでラジオ番組「J-Pop Now Radio with Kentaro Ochiai」のエピソード147が配信開始されています。 落合健太郎がホストを務める、J-Popを紹介するプログラムです。 6...\nThe post 【ニュース】Apple Musicで落合健太郎「J-Pop Now Radio」第147回の配信開始。RADWIMPSを特集 first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2024/01/apple-music-j-pop-now-radio-ep147.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2024/01/240124jpopnowradio.jpg",
+    "publishedAt": "2024-01-24T00:18:10Z",
+    "content": "Apple Musicでラジオ番組「J-Pop Now Radio with Kentaro Ochiai」のエピソード147が配信開始されています。\n落合健太郎がホストを務める、J-Popを紹介するプログラムです。\n\n\n60分のオンデマンド番組です。\nエピソード147では、RADWIMPSが特集されています。\nRADWIMPSは本日1月24日にニューシングル「正解」がリリースされています。\n配… [+533 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【ニュース】Apple TV+でドラマ「クリミナル・レコード」第4話の配信開始",
+    "description": "Apple TV+で、ドラマ「クリミナル・レコード」の最新エピソード（第4話）が配信開始されています。 エピソード4『守られてる』53分 エロルの事件で突破口を見つけたジューンに、各方面から圧力がかかる。 次回（1月31...\nThe post 【ニュース】Apple TV+でドラマ「クリミナル・レコード」第4話の配信開始 first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2024/01/apple-tv-plus-new-episode-240124.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2024/01/240124appletvplusnewep.jpg",
+    "publishedAt": "2024-01-24T02:01:45Z",
+    "content": "Apple TV+で、ドラマ「クリミナル・レコード」の最新エピソード（第4話）が配信開始されています。\n\n\nエピソード4『守られてる』53分\n\nエロルの事件で突破口を見つけたジューンに、各方面から圧力がかかる。\r\n\n\n次回（1月31日配信）：エピソード5『麻薬所持』43分\n\nニュース解説\n「クリミナル・レコード」は2月21日配信の第8話で終了です。\n今週1月26日（金）には新作ドラマシリーズ「マ… [+396 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Carolina Drüten",
+    "title": "Was die Entscheidung der Türkei zu Schweden in der Nato offenbart",
+    "description": "Das türkische Parlament hat grünes Licht für den Nato-Beitritt Schwedens gegeben. Ein Erfolg für den Westen ist das nicht. Für die Nato ist Ankara unverzichtbar. Aber damit ist sie auch auf ein Land angewiesen, das außenpolitisch eine Schaukelpolitik zwischen…",
+    "url": "https://www.welt.de/debatte/kommentare/article249695080/Nato-Beitritt-Schwedens-Was-die-Entscheidung-der-Tuerkei-zu-Schweden-in-der-Nato-offenbart.html",
+    "urlToImage": "https://img.welt.de/img/autor/mobile241573001/2241353777-ci16x9-w1200/Drueten-Carolina.jpg",
+    "publishedAt": "2024-01-24T03:54:13Z",
+    "content": "20 Monate lang blockierte die Türkei den Beitritt Schwedens zur Nato. 20 Monate, in denen Ankara in westlichen Hauptstädten öffentlich als wertvoller Nato-Verbündeter, als produktiv und hilfreich und… [+3014 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Robb Report"
+    },
+    "author": "Jonah Flicker",
+    "title": "Woodford Reserve Has Brought Back Its Highly Coveted Double Double Oaked Bourbon",
+    "description": "Double your pleasure with triple the barrels.",
+    "url": "https://robbreport.com/food-drink/spirits/woodford-reserve-double-double-oaked-bourbon-whiskey-1235485318/",
+    "urlToImage": "https://robbreport.com/wp-content/uploads/2024/01/Woodford_Double_Double_Oaked.jpg?w=681&h=383&crop=1",
+    "publishedAt": "2024-01-24T00:00:00Z",
+    "content": "If you purchase an independently reviewed product or service through a link on our website, Robb Report may receive an affiliate commission.\r\nWoodford Reserve’s core lineup of whiskeys consists of bo… [+2037 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Softantenna.com"
+    },
+    "author": "saadmin",
+    "title": "Apple、クラシック音楽配信アプリ「Apple Music Classical」の提供を開始",
+    "description": "Appleは本日、iOS/iPad向けのクラシック音楽配信アプリ「Apple Music Classical」の提供を開始しました(Newsroom)。 Apple Music Classical App Storeカテゴリ: ミュージック",
+    "url": "https://softantenna.com/blog/apple-music-classical-is-here/",
+    "urlToImage": "https://softantenna.com/blog/wp-content/uploads/2024/01/Apple-Music-Classical-hero_big.large_-1.jpg",
+    "publishedAt": "2024-01-24T02:04:43Z",
+    "content": "AppleiOS/iPadApple Music Classical(Newsroom)\r\nApple Music Classical500\r\n24/192kHz360\r\nApple Music ClassicalApple Music"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Softantenna.com"
+    },
+    "author": "saadmin",
+    "title": "【要注意】macOS Sonomaへの強制アップグレードが発生中か",
+    "description": "経験豊富なMacユーザーを含めた複数のユーザーが、「macOS Sonoma」への強制アップグレードが行われたと報告していることがわかりました(MacInTouch)。 Macの機種によらず、macOS VenturaやmacOS Mont",
+    "url": "https://softantenna.com/blog/macos-sonoma-force-install/",
+    "urlToImage": "https://softantenna.com/blog/wp-content/uploads/2024/01/s_20231005_002220.jpg",
+    "publishedAt": "2024-01-24T01:38:31Z",
+    "content": "MacmacOS Sonoma(MacInTouch)\r\nMacmacOS VenturamacOS MontereymacOS Sonoma\r\nMac mini 2018macOS VenturamacOS Sonoma\r\nThis morning, as I was working, I got a popup notification asking me to upgrade my Mac… [+1633 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Famitsu.com"
+    },
+    "author": "famitsu_app",
+    "title": "『パズドラ』『モンスト』『FGO』などリリース5年以上のスマホゲームが収益上位に。コラボが重要なカギ",
+    "description": "Sensor Towerの公式ブログにて、日本と海外のパブリッシャーの日本市場における戦略の違いに関連する市場分析レポートが公開された。",
+    "url": "https://app.famitsu.com/20240124_2186677/",
+    "urlToImage": "https://app.famitsu.com/wp-content/uploads/2024/01/4c85c234076325c638e2c305400f29d6-138-506x254.jpg",
+    "publishedAt": "2024-01-24T03:53:15Z",
+    "content": "Sensor Tower\r\nSensor Tower\r\n20231064\r\n2023655\r\nSensor Tower202310\r\n202310MIXI5.742022202312 Cygames\r\n21miHoYo2023420232\r\n704020228\r\n20231064652023Fate Grand/OrderAniplexAKONAMIGungHo Online Entertain… [+292 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Yahoo Sports Videos",
+    "title": "How the Chiefs, Ravens defensive coordinators could shape Sunday's AFC Championship | The Exempt List",
+    "description": "Yahoo Sports NFL writer Charles McDonald and Marshall Newhouse preview Sunday's AFC Championship Game between the Ravens and Chiefs, including an eye on both defensive units. Hear the full conversation on “The Exempt List with Charles McDonald” - part of the …",
+    "url": "https://sports.yahoo.com/chiefs-ravens-defensive-coordinators-could-011807986.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9cus21e1BVpDPfBTDujsxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/4b200440-ba55-11ee-9fbc-18e7a75027b5",
+    "publishedAt": "2024-01-24T01:18:07Z",
+    "content": "Jason Fitz and Frank Schwab recap each and every game from the Divisional Round of the NFL playoffs as they give their instant reactions and takeaways and determine the ramifications for each team. F… [+1243 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Abendblatt.de"
+    },
+    "author": "Anja Wölker",
+    "title": "Drohnen in der Ukraine: Wie verändern sie die Kriegsführung?",
+    "description": "„Früher galt der Scharfschütze als die gefährlichste Waffeneinheit“, sagt ein ukrainischer Kommandeur. Jetzt gehören Drohnen zur wichtigsten Kriegsausstattung.",
+    "url": "https://www.abendblatt.de/podcast/article241488726/Drohnen-in-der-Ukraine-Wie-veraendern-sie-die-Kriegsfuehrung.html",
+    "urlToImage": "https://img.sparknews.funkemedien.de/240736556/240736556_1701621256_v4_3_800.jpeg",
+    "publishedAt": "2024-01-24T04:00:00Z",
+    "content": "Essen. Früher galt der Scharfschütze als die gefährlichste Waffeneinheit, sagt ein ukrainischer Kommandeur. Jetzt sind Drohnen entscheidend.\r\nWenn Sie sich einen modernen Krieg vorstellen, wenn Sie s… [+2204 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Www.e15.cz"
+    },
+    "author": "Jiří Liebreich",
+    "title": "Silná česká koruna nám umožnila zlevnit víc, než kdybyste měli euro, říká šéf IKEA David McCabe",
+    "description": "Inflační vlna posledních let silně otřásla byznysem i takového giganta, jakým je IKEA. Pro řadu zákazníků přestala být levnou a dostupnou. Nábytkářský gigant proto masivně zainvestoval do vlastních dodavatelských řetězců tak, aby byl schopen ceny snížit. Loni…",
+    "url": "https://www.e15.cz/rozhovory/silna-ceska-koruna-nam-umoznila-zlevnit-vic-nez-kdybyste-meli-euro-rika-sef-ikea-david-mccabe-1413096",
+    "urlToImage": "https://1884403144.rsc.cdn77.org/foto/david-mccabe-ikea/MTIwMHg2MzAvZmlsdGVyczp3YXRlcm1hcmsoaHR0cHM6Ly9pbWcuY25jZW50ZXIuY3ovZGlzdC9hc3NldHMvZTE1L3dhdGVybWFyay1lMTUucG5nLC0xMCwxMCwwKTpub191cHNjYWxlKDEpOmZvY2FsKDk1MXgyNDU6MTA3NXg0MDkpL2ltZw/8865621.jpg?v=0&st=5ul8T2DiW4gB3Y3Qg-BPT0abrlkFlds-_Jm0cgKi-6o&ts=1600812000&e=0",
+    "publishedAt": "2024-01-24T04:00:00Z",
+    "content": "Inflaní vlna posledních let siln otásla byznysem i takového giganta, jakým je IKEA. Pro adu zákazník pestala být levnou a dostupnou. Nábytkáský gigant proto masivn zainvestoval do vlastních dodavatel… [+12621 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Vz.ru"
+    },
+    "author": null,
+    "title": "В контрабанде 637 кг кокаина на общую сумму 2,5 млрд рублей обвинили 21-летнюю студентку из Воронежа",
+    "description": "Бывшей студентке медицинского колледжа из Воронежа предъявлено обвинение в покушении на контрабанду 673 кг кокаина стоимостью более 2,5 млрд рублей, который она должна была переправить из Москвы с страны ЕС. «Обвиняемая вину признала, в содеянном раскаялась и…",
+    "url": "https://vz.ru/news/2024/1/24/1249977.html",
+    "urlToImage": "https://img.vz.ru/upimg/soc/soc_1249977.png",
+    "publishedAt": "2024-01-24T03:29:25Z",
+    "content": "« () , . , : -. », , , . \r\n« , Apple , . , , », . \r\n« , , , . , -, », . \r\n«, Google 20,3 . , . , . , , Apple, », . \r\n Apple 1,1 . . 2022 - . iOS . \r\n App Store . Apple , , -. \r\n , IT- , . Apple App S… [+18 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Vz.ru"
+    },
+    "author": null,
+    "title": "В Челябинской области загорелась мебельная фабрика, площадь пожара достигла 3,6 кв. метров",
+    "description": "Крупный пожар произошел на мебельной фабрике в Челябинской области По данным МЧС России, площадь возгорания достигла 3,6  тыс. кв. метров, передает ТАСС.Агентство отмечает, что горит кровля мебельной фабрики, расположенной в двух километрах от поселка Батурин…",
+    "url": "https://vz.ru/news/2024/1/24/1249971.html",
+    "urlToImage": "https://img.vz.ru/upimg/soc/soc_1249971.png",
+    "publishedAt": "2024-01-24T01:41:19Z",
+    "content": "« () , . , : -. », , , . \r\n« , Apple , . , , », . \r\n« , , , . , -, », . \r\n«, Google 20,3 . , . , . , , Apple, », . \r\n Apple 1,1 . . 2022 - . iOS . \r\n App Store . Apple , , -. \r\n , IT- , . Apple App S… [+18 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Lavozdegalicia.es"
+    },
+    "author": "C. Rodríguez",
+    "title": "El éxito viral de Rabbit R1, un dispositivo nuevo que quiere eliminar al móvil de tu bolsillo",
+    "description": "Este pequeño aparato con pantalla táctil, que llamó la atención en la feria CES, sirve para interactuar de forma sencilla e intuitiva con la IA y múltiples servicios en internet. Ha provocado una pequeña fiebre, ¿podrá consolidarse en el mercado?",
+    "url": "https://www.lavozdegalicia.es/noticia/reto-digital/2024/01/23/exito-viral-rabbit-r1dispositivo-nuevo-quiereeliminar-movil-tu-bolsillo/00031706013803314581548.htm",
+    "urlToImage": "https://cflvdg.avoz.es/sc/l9aWz3v5cSTC13LEK03qE1uzHdI=/1280x/2024/01/23/00121706046703895644153/Foto/rabbit_hd.jpg",
+    "publishedAt": "2024-01-24T04:00:00Z",
+    "content": "Por la feria tecnológica CES de Las Vegas desfiló una legión de cacharros innovadores. Robots para el hogar, aparatos capaces de hacer hablar (con mensajes pregrabados) a las plantas, gafas para oír … [+4523 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "X（旧Twitter）、昨年SMS 2FAサポートを削除した後、iOSでパスキーのサポートを追加",
+    "description": "X、2FAオプションとしてSMSを削除した後、iOSユーザー向けにパスキーのサポートを開始 パスキーのサポートを追加しました。以前は Twitter として知られていた X は本日、パスキーのサポートを追加しました。これは、iOS デバイス上の米国ユーザーのオプションとなる、従来のパスワードよりも安全な新しいログイン方法です。このテクノロジーは、PayPal、TikTok、WhatsApp などを含む多くのアプリで最近採用されています。 Today we’re excited to launch Passkeys…",
+    "url": "https://minatokobe.com/wp/ios/post-95220.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2024/01/XTwitter.jpg",
+    "publishedAt": "2024-01-24T00:22:27Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "夢からドライブへ：Appleが電気自動車のマイルストーン年として2028年を設定",
+    "description": "進化するプロジェクト・タイタンのビジョン プロジェクト・タイタンは当初、ハンドルすら必要としない完全自律走行車を実現する画期的なベンチャーとして構想されました。しかし、この野心的な目標は、何度かの延期や幹部の入れ替わりの多さなど、長年にわたって大きな困難に直面してきました。 こうした挫折にもかかわらず、Appleの決意は衰えていません。2021年に就任したケビン・リンチのリーダーシップのもと、プロジェクトは方向転換し、2028年に最初の自動車を発売するという現実的な目標を設定しました。 現実を直視し、目標を調整 …",
+    "url": "https://minatokobe.com/wp/apple/post-95226.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2024/01/Apple-Car-0124.jpg",
+    "publishedAt": "2024-01-24T01:29:53Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "あなたのリスニング体験を革新する：AirPods ProとAirPods 2の最新ファームウェアアップデート",
+    "description": "AirPods ProとAirPods 2の新しいファームウェアアップデートがリリースされました！ アップデートの詳細 常にイノベーションの最前線にいるAppleは、AirPods ProとAirPods 2の両方に新しいファームウェアバージョン6A321をリリースしました。 これは、今月初めにAirPods 3向けに同様のアップデートを行った直後のことです。 いつものように、Appleはバグフィックスやその他の改善というお決まりの声明で物事を伏せています。しかし私たちは、アップデートのたびに何か特別なものがもた…",
+    "url": "https://minatokobe.com/wp/apple/post-95223.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2024/01/AirPods-Pro-2_01.jpg",
+    "publishedAt": "2024-01-24T00:55:39Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Finance.ua"
+    },
+    "author": "Finance.UA",
+    "title": "«Ушедшая» из россии Apple пополнила бюджет страны-агрессора на $13 млн, — росСМИ",
+    "description": "Apple пополнила бюджет россии на 1,18 млрд рублей (около $13 млн), уплатив антимонопольный штраф, сообщают росСМИ со ссылкой на ФАС (Федеральная антимонопольная служба) россии. Для американского техногиганта этот штраф стал вторым крупным за год.",
+    "url": "https://news.finance.ua/ru/ushedshaya-iz-rossii-apple-popolnila-byudzhet-strany-agressora-na-13-mln-rossmi",
+    "urlToImage": "false/assets/images/news-og.png",
+    "publishedAt": "2024-01-24T03:21:00Z",
+    "content": ""
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Hollywood Life"
+    },
+    "author": "Avery Thompson",
+    "title": "‘Celebrity Jeopardy!’ Season 2 Finals: Who’s Competing & Everything Else You Need to Know",
+    "description": "It's all been leading up to this. A new 'Celebrity Jeopardy!' champion will be crowned during the January 23 final. Here's everything you need to know about the finalists and more.",
+    "url": "https://hollywoodlife.com/feature/who-won-celebrity-jeopardy-season-2-5245206/",
+    "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2024/01/celebrity-jeopardy-season-2-ftr.jpg?quality=100",
+    "publishedAt": "2024-01-24T00:49:30Z",
+    "content": "View galleryImage Credit: ABC\r\nCelebrity Jeopardy! season 2 has been a thrill ride for Jeopardy! fans from start to finish. After rounds and rounds of quarterfinals and semi-finals, its time for a ne… [+3369 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "TechNode"
+    },
+    "author": "Steven Lee",
+    "title": "三星：暂不考虑 Galaxy AI 收费，专注让更多用户体验 AI",
+    "description": "据韩媒 mk 报道，三星表示暂不考虑未来 Galaxy AI 是否收费这一问题，而是专注于让更多用户体验到 AI 功能。 在 1 月 18 日的 Galaxy Unpacked 发布会上，三星发布了以即时翻译为代表的 Galaxy AI 系列功能。不过根据此前消息，三星在官方新闻稿的脚注部分提到“直到",
+    "url": "https://cn.technode.com/post/2024-01-24/samsung-galaxy-ai-mk/",
+    "urlToImage": "https://cn.technode.com/wp-content/blogs.dir/18/files/2024/01/samsung-galaxy-ai-is-here-664x440-1.jpg",
+    "publishedAt": "2024-01-24T03:12:00Z",
+    "content": "mk Galaxy AI AI \r\n 1 18 Galaxy Unpacked Galaxy AI 2025 Galaxy AI Galaxy 2026 \r\n MX Galaxy AI AI \r\nAI \r\n Samsung Pay Apple Pay Galaxy AI AI 2026 Galaxy AI"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "STERN.de"
+    },
+    "author": "STERN.de",
+    "title": "iPhone-Konzern: Bericht: Apple peilt eigenes Elektroauto erst für 2028 an",
+    "description": "Cupertino - Apple hat laut einem Medienbericht die Ambitionen bei der Entwicklung eines Elektroautos zurückgeschraubt und peilt nun eine Markteinführung",
+    "url": "https://www.stern.de/wirtschaft/news/iphone-konzern--bericht--apple-peilt-eigenes-elektroauto-erst-fuer-2028-an-34394028.html",
+    "urlToImage": "https://image.stern.de/34394030/t/Zg/v1/w1440/r1.7778/-/24--urnnewsmldpacom2009010124012499727585v2w800h600l430t130r1530b892jpeg---36724215e58b6a91.jpg",
+    "publishedAt": "2024-01-24T04:19:51Z",
+    "content": "Um das Elektroauto von Apple ranken sich seit Jahren Gerüchte. Nun soll es später auf den Markt kommen als gedacht - und auch nicht selbstfahrend sein.\r\nApple hat laut einem Medienbericht die Ambitio… [+2473 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Ithome.com.tw"
+    },
+    "author": "林妍溱",
+    "title": "Ducker提供容器映像檔代管服務",
+    "description": "新聞\r\n繼去年推出遠端部署工具Ducker Build後，Ducker本周再宣布提供新的代管服務Ducker Build Cloud，提供開發人員在代管雲端環境上部署容器映像檔。\r\n\nDocker引用調查數據指出，開發組建要花很長時間等待，平均每一天要等掉1小時，以一個25人開發團隊及年薪14萬美元計算，每年白白浪費的生產力大約是42萬美元。\r\n\nDucker Build Cloud可讓開發人員不論是在本地或在CI環境上都能更快部署映像檔，不需用戶執行配置。這項服務是使用結合雲端運算及組建快取，透過雲端運算，可確…",
+    "url": "https://www.ithome.com.tw/news/160999",
+    "urlToImage": "https://s4.itho.me/sites/default/files/field/image/0124-docker_build_cloud-960.jpg",
+    "publishedAt": "2024-01-24T04:14:25Z",
+    "content": "Ducker BuildDuckerDucker Build Cloud\r\nDocker1251442\r\nDucker Build CloudCIbuild39\r\nDucker Build CloudAMDARM builderIntelAMD 64Apple Silicon/AWS GravitonArm 64builderDocker ComposeGitHub ActionsCI\r\nBui… [+220 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Gadgets360.com"
+    },
+    "author": "Nithya P Nair, Siddharth Suvarna",
+    "title": "Google Pixel 9 Pro Design Renders Leak; Suggests Flat Edges, Redesigned Camera Bar",
+    "description": "Pixel 9 Pro renders have emerged online offering a glimpse into the possible design of Google's next flagship. The renders suggest a design deviation from the past few generations. The Pixel 9 Pro seems to have flat edges similar to what we’ve seen on iPhone …",
+    "url": "https://www.gadgets360.com/mobiles/news/google-pixel-9-pro-renders-design-images-specifications-leak-4921346",
+    "urlToImage": "https://i.gadgets360cdn.com/large/pixel_9_pro_mysmartprice_onleaks_1706068381970.jpg",
+    "publishedAt": "2024-01-24T04:03:49Z",
+    "content": "Google Pixel 8 series with the vanilla Pixel 8 and Pixel 8 Pro was launched in October at the Made by Google' event. Now, the first Pixel 9 Pro renders have emerged online offering a glimpse into the… [+2440 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "gizmodo.com",
+    "title": "Apple Car Hits Speed Bump, Reportedly Pushed to 2028",
+    "description": "Apple has yet to confirm the existence of the Apple Car, but it appears this thing hit another snag on the way to its big reveal. The Apple Car won’t make its debut until 2028, according to a report from Bloomberg Tuesday. Planning for the Apple Car, codename…",
+    "url": "https://biztoc.com/x/59d8462d59083ee1",
+    "urlToImage": "https://c.biztoc.com/p/59d8462d59083ee1/og.webp",
+    "publishedAt": "2024-01-24T01:32:17Z",
+    "content": "Apple has yet to confirm the existence of the Apple Car, but it appears this thing hit another snag on the way to its big reveal.The Apple Car wont make its debut until 2028, according to a report fr… [+278 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "marketwatch.com",
+    "title": "Apple said to be scaling down self-driving Apple car features",
+    "description": "Apple Inc. reportedly has scaled down its effort to make an autonomous electric vehicle, working instead on an EV with “limited” self-driving features, Bloomberg reported Tuesday, citing people described as familiar with the company’s plan. Moreover, an Apple…",
+    "url": "https://biztoc.com/x/469df471bb9fa89e",
+    "urlToImage": "https://c.biztoc.com/p/469df471bb9fa89e/s.webp",
+    "publishedAt": "2024-01-24T01:04:08Z",
+    "content": "Apple Inc. reportedly has scaled down its effort to make an autonomous electric vehicle, working instead on an EV with limited self-driving features, Bloomberg reported Tuesday, citing people describ… [+251 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "marketwatch.com",
+    "title": "Apple’s Mac turns 40, bringing back memories of the company’s once-renegade ways",
+    "description": "As Apple nears the 40th anniversary of one of its most groundbreaking products ever, the Macintosh, it is also a reminder to investors that the company that revolutionized the personal computer is now a middle-aged tech giant. Apple’s AAPL, innovation and con…",
+    "url": "https://biztoc.com/x/003bf62d7f9d41de",
+    "urlToImage": "https://c.biztoc.com/p/003bf62d7f9d41de/s.webp",
+    "publishedAt": "2024-01-24T04:06:07Z",
+    "content": "As Apple nears the 40th anniversary of one of its most groundbreaking products ever, the Macintosh, it is also a reminder to investors that the company that revolutionized the personal computer is no… [+246 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "pymnts.com",
+    "title": "Report: Apple Scales Back and Delays Plans for Self-Driving Vehicle",
+    "description": "Apple has reportedly scaled back and delayed its plans to develop a vehicle. After initially aiming for a fully autonomous vehicle, the company has scaled back its ambitions and is now focusing on an electric vehicle (EV) with more limited features, including…",
+    "url": "https://biztoc.com/x/be6887130696ccfb",
+    "urlToImage": "https://c.biztoc.com/p/be6887130696ccfb/s.webp",
+    "publishedAt": "2024-01-24T00:14:19Z",
+    "content": "Apple has reportedly scaled back and delayed its plans to develop a vehicle.After initially aiming for a fully autonomous vehicle, the company has scaled back its ambitions and is now focusing on an … [+273 chars]"
+    },
+      {
+    "source": {
+    "id": null,
+    "name": "pymnts.com"
+    },
+    "author": "PYMNTS",
+    "title": "Report: Apple Scales Back and Delays Plans for Self-Driving Vehicle",
+    "description": "Apple has reportedly scaled back and delayed its plans to develop a vehicle. After initially aiming for a fully autonomous vehicle, the company has scaled back its ambitions and is now focusing on an electric vehicle (EV) with more limited features, including…",
+    "url": "https://www.pymnts.com/apple/2024/report-apple-scales-back-and-delays-plans-for-self-driving-vehicle/",
+    "urlToImage": null,
+    "publishedAt": "2024-01-24T00:06:34Z",
+    "content": "Apple has reportedly scaled back and delayed its plans to develop a vehicle.\r\nAfter initially aiming for a fully autonomous vehicle, the company has scaled back its ambitions and is now focusing on a… [+2288 chars]"
+    }
+    ]
+    }
